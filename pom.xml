@@ -64,6 +64,7 @@
                                             <counter>INSTRUCTION</counter>
                                             <value>COVEREDRATIO</value>
                                             <minimum>93%</minimum>
+                                            <maximum>100%</maximum>
                                         </limit>
                                     </limits>
                                 </rule>
